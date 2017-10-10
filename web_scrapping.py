@@ -101,7 +101,7 @@ def main():
     #     result = session_requests.post(URL, data = payload, headers = dict(referer = URL))
     #     #print(result.url)
     #     #print(result.content)
-    # select()
+
 
 if __name__ == '__main__':
     main()
