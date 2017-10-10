@@ -100,8 +100,6 @@ def main():
     #     # Perform select
     #     result = session_requests.post(URL, data = payload, headers = dict(referer = URL))
     #     #print(result.url)
-    #     #print(result.content)
-
 
 if __name__ == '__main__':
     main()
